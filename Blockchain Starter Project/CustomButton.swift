@@ -1,9 +1,8 @@
 //
-//  CustomButton.swift
-//  Views
+//  AppDelegate.swift
+//  BlockMiner
 //
-//  Created by Sai Kambampati on 12/8/17.
-//  Copyright © 2017 SaiApps. All rights reserved.
+//  Created by BS901 on 6/16/22.
 //
 
 import UIKit
